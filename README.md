@@ -4,14 +4,25 @@
 - Wed 1 Feb - Mon 10 Apr
 - Holidays: none
 
-### Resources provided for each Class
+---
+
+### Resources provided in the folder for each class:
 <dl>
-  <dt>`starter-code` folder</dt>
-  <dd>Contains starting files for codealongs and labs we do together in class, as well as for homework assignments</dd>
+  <dt><code>README.md</code></dt>
+  <dd>Homework assignments, prereading for the next class, and additional resources on the topics covered</dd>
+  <dt><code>starter-code</code> folder</dt>
+  <dd>Starting files for codealongs and labs we do in class, as well as for homework assignments</dd>
+  <dt><code>solution-code</code> folder</dt>
+  <dd>Solution files for codealongs we do together in class</dd>
+  <dt><code>JS-SF-6-##-[topic].pdf</code></dt>
+  <dd>Slide deck used in class, where <code>##</code> is the class number and <code>[name]</code> describes the topics covered</dd>
+  <dt>Other <code>.md</code> files</dt>
+  <dd>Instructions, lists of commands, or other resources relevant to the topics covered</dd>
 </dl>
 
+---
 
-The order of topics may change slightly during the course, but this is a general outline of the topics we will cover and the order in which we'll do that
+The order of topics may change slightly during the course, but following is a general outline of the topics we will cover and the order in which we'll do that:
 ### Unit 1: Fundamentals of JavaScript
 - [Class 00: Installfest](https://github.com/svodnik/sfjs6/tree/master/00-installfest)
 - [Class 01: Command line JavaScript](https://github.com/svodnik/sfjs6/tree/master/01-command-line-JS)
