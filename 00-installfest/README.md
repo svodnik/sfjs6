@@ -13,5 +13,5 @@
 
 * [What is the Internet?](http://netforbeginners.about.com/od/i/f/What-Is-The-Internet.htm)
 * [About the HTTP protocol](code.tutsplus.com/tutorials/http-the-protocol-every-Web-developer-must-know-part-1--net-31177)
-* &film;[DNS Explained (video)](https://www.youtube.com/watch?v=72snZctFFtA)
-* &film;[Writing Pseudocode (video)](https://www.youtube.com/watch?v=4G0EYfrrDT8)
+* &film; [DNS Explained (video)](https://www.youtube.com/watch?v=72snZctFFtA)
+* &film; [Writing Pseudocode (video)](https://www.youtube.com/watch?v=4G0EYfrrDT8)
