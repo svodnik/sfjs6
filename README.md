@@ -53,6 +53,8 @@ The order of topics may change slightly during the course, but following is a ge
 - [Class 14: The module pattern & this](https://github.com/svodnik/sfjs6/tree/master/14-module-pattern-this)
 - [Class 15: Intro to CRUD and Firebase](https://github.com/svodnik/sfjs6/tree/master/15-crud-firebase)
 
+&ensp;no Unit 3 project; the Unit 4 project is the capstone for both Units 3 and 4
+
 ---
 
 ### Unit 4: Building and deploying your app
