@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 04: Scope & Closures
 
-## Homework (due Tuesday 11/15)
+## Homework (due Monday 2/20)
 * [Closures lab](starter-code/2-closures-lab) (started in class)
 * Read about Hubot
     * [Hubot Overview](https://hubot.github.com)

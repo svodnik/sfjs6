@@ -1,17 +1,15 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 06: Objects & JSON
 
-## Homework (due Tuesday 11/22)
+## Homework (due Monday 2/27)
 
 * Outline and create objects (2-object-homework folder)
 * Convert between JavaScript objects and JSON (3-json-homework folder)
 
-## Pre-reading for next week:
+## Pre-reading for next class:
 
 * Eloquent JavaScript Chapter Twelve: [JavaScript and the Browser](http://eloquentjavascript.net/12_browser.html)
 * Eloquent JavaScript Chapter Thirteen: [The Document Object Model (DOM)](http://eloquentjavascript.net/13_dom.html)
 * Eloquent JavaScript Chapter Fourteen: [Handling Events](http://eloquentjavascript.net/14_event.html)
-* [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
-* Codecademy [Introducing jQuery](https://www.codecademy.com/learn/jquery) (first lesson)
 
 ## Additional resources on today's topics:
 

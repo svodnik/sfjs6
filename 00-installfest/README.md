@@ -1,7 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 00: InstallFest
 
-## Homework:
-### Complete by Tuesday 11/1
+## Homework (due Monday 2/6)
 
 * Complete all of the lessons and challenges in [CodeAcademy’s “JavaScript Fundamentals” track](https://www.codecademy.com/en/tracks/javascript-upgraded). This track consists of three lessons, the first two of which have a corresponding code challenge. The three lessons are as follows: Getting Started With Programming, Introduction to Functions in JS, and Introduction to ‘For’ Loops in JS.
 

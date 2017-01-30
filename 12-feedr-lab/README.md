@@ -1,10 +1,10 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 12: Feedr lab
 
-## Homework (due Tuesday 1/3, which is 3 weeks from today)
+## Homework (due Monday 3/27, which is 12 days from today)
 
 Complete the Feedr project. 
 
-## Pre-reading for Thursday:
+## Pre-reading for next class:
 
 - [JavaScript Prototype in Plain Language](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - [Prototypal Inheritance in JavaScript](http://javascript.crockford.com/prototypal.html)

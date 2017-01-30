@@ -1,9 +1,9 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 02: Data Types & Loops
 
-## Homework (due Tuesday 11/8)
+## Homework (due Monday 2/13)
 * 99 Bottles of Beer
 
-## Pre-reading for next week:
+## Pre-reading for next class:
 
 * Eloquent JavaScript [Chapter Three: Functions](http://eloquentjavascript.net/03_functions.html)
 * CodeAcademy [Functions](https://www.codecademy.com/courses/functions-in-javascript-2-0/0/1) (different from last week's tutorial!)

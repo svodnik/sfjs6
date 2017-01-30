@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 14: The module pattern & this
 
-## Homework (due Tuesday 1/3)
+## Homework (due Monday 3/27)
 
 - `7-person-module` folder: Build a module that creates a person by following the steps in the `app.js` file.
 - Feedr project
@@ -9,7 +9,7 @@
 
 - Complete [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/#0), a tutorial that guides you through building a web application with Firebase. This is a preview of what we'll be doing in class when we return from break.
 
-## Prereading for Tuesday 1/3:
+## Prereading for next class:
 
 - [Introducing Firebase video series](https://youtu.be/O17OWyx08Cg?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL), including the following:
     - [Introducing Firebase](https://www.youtube.com/watch?v=O17OWyx08Cg&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&index=1)

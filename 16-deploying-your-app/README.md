@@ -2,7 +2,7 @@
 
 ## Homework 
 
-- Continue work on your final project (due in class Tuesday 1/17)
+- Continue work on your final project (due in class Monday 4/10)
 
 ## Additional resource on today's topics:
 
