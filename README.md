@@ -16,6 +16,7 @@
   <dd>Solution files for codealongs we do together in class</dd>
   <dt><code>JS-SF-6-##-[topic].pdf</code></dt>
   <dd>Slide deck used in class, where <code>##</code> is the class number and <code>[name]</code> describes the topics covered</dd>
+  <dd>(note that the PDF for each class will be posted just before that class)</dd>
   <dt>Other <code>.md</code> files</dt>
   <dd>Instructions, lists of commands, or other resources relevant to the topics covered</dd>
 </dl>
