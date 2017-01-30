@@ -31,7 +31,7 @@ The order of topics may change slightly during the course, but following is a ge
 - [Class 04: Scope & closures](https://github.com/svodnik/sfjs6/tree/master/04-scope-closures)
 - [Class 05: Slack bot lab (Unit 1 project)](https://github.com/svodnik/sfjs6/tree/master/05-slackbot-lab)
 
-&ensp;&ensp;&ensp;__Unit 1 project__: Slack bot
+&ensp;__Unit 1 project__: Slack bot
 
 ---
 
