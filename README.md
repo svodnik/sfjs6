@@ -4,6 +4,13 @@
 - Wed 1 Feb - Mon 10 Apr
 - Holidays: none
 
+### Resources provided for each Class
+<dl>
+  <dt>__starter-code__ folder</dt>
+  <dd>Contains starting files for codealongs and labs we do together in class, as well as for homework assignments</dd>
+</dl>
+
+
 The order of topics may change slightly during the course, but this is a general outline of the topics we will cover and the order in which we'll do that
 ### Unit 1: Fundamentals of JavaScript
 - [Class 00: Installfest](https://github.com/svodnik/sfjs6/tree/master/00-installfest)
