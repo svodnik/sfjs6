@@ -42,7 +42,7 @@ The order of topics may change slightly during the course, but following is a ge
 - [Class 09: Ajax & APIs](https://github.com/svodnik/sfjs6/tree/master/09-ajax-apis)
 - [Class 10: Asynchronous JavaScript & callbacks](https://github.com/svodnik/sfjs6/tree/master/10-async-callbacks)
 
-&ensp;&ensp;&ensp;__Unit 2 project__: API-consuming app
+&ensp;__Unit 2 project__: API-consuming app
 
 ---
 
@@ -61,7 +61,7 @@ The order of topics may change slightly during the course, but following is a ge
 - Class 18: Final project lab
 - Class 19: Final project presentations & graduation!
 
-&ensp;&ensp;&ensp;__Unit 4 project__: Single-page app that consumes data from an API and persists user data via Firebase
+&ensp;__Unit 4 project__: Single-page app that consumes data from an API and persists user data via Firebase
 
 ---
 
