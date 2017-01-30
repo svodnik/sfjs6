@@ -6,7 +6,7 @@
 
 ### Resources provided for each Class
 <dl>
-  <dt>__starter-code__ folder</dt>
+  <dt>`starter-code` folder</dt>
   <dd>Contains starting files for codealongs and labs we do together in class, as well as for homework assignments</dd>
 </dl>
 
