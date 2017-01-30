@@ -1,5 +1,5 @@
 # Student Resources
-## General Assembly San Francisco JavaScript Development 5 
+## General Assembly San Francisco JavaScript Development 6 
 
 ### Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
