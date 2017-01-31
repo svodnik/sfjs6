@@ -11,10 +11,10 @@
 
 ## Prereading for next class:
 
-- [Introducing Firebase video series](https://youtu.be/O17OWyx08Cg?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL), including the following:
-    - [Introducing Firebase](https://www.youtube.com/watch?v=O17OWyx08Cg&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&index=1)
-    - [Introducing Firebase Realtime Database](https://www.youtube.com/watch?v=U5aeM5dvUpA&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&index=12)
-    - [Introducing Firebase Storage](https://www.youtube.com/watch?v=_tyjqozrEPY&index=11&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
+- [&#127909; Introducing Firebase video series (videos)](https://youtu.be/O17OWyx08Cg?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL), including the following:
+    - [&#127909; Introducing Firebase](https://www.youtube.com/watch?v=O17OWyx08Cg&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&index=1)
+    - [&#127909; Introducing Firebase Realtime Database](https://www.youtube.com/watch?v=U5aeM5dvUpA&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL&index=12)
+    - [&#127909; Introducing Firebase Storage](https://www.youtube.com/watch?v=_tyjqozrEPY&index=11&list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL)
 - [Creating a data attribute (MDN)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes)
 - [Calling a data attribute with jQuery](https://api.jquery.com/data/)
 
@@ -22,3 +22,5 @@
 
 - [All this](bjorn.tipling.com/all-this)
 - [Gentle explanation of this in JavaScript](https://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+- [&#127909; The basic module pattern (video)](https://www.youtube.com/watch?v=cQRKE5QIB6Q)
+- [&#127909; this keyword (video)](https://www.youtube.com/watch?v=KtoA_S4pVZ8)

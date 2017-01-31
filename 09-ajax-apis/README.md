@@ -21,6 +21,9 @@
 - [Wikipedia: API][4]
 - [What's an HTTP Request?][5]
 - [Wikipedia: Representational state transfer (REST)][6]
+- [&#127909; What is Ajax? (video)](https://www.youtube.com/watch?v=3l13qGLTgNw)
+- [&#127909; Rest API concepts & examples (video)](https://www.youtube.com/watch?v=7YcW25PHnAA)
+
 
 [1]: https://learn.jquery.com/ajax/
 [2]: http://www.sitepoint.com/use-jquerys-ajax-function/

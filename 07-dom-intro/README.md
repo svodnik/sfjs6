@@ -26,6 +26,8 @@
 
 - [MDN: Document Object Model (DOM)][1]
 - [&#127909; Browser rendering flow][2] (video)
+- [&#127909; The DOM: What is the Document Object Model? (video)](https://www.youtube.com/watch?v=80Mr2Z6Qikc&list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy&index=42)
+- [&#127909; The DOM: Style in the Header, Script in the Footer (video)](https://www.youtube.com/watch?v=i1rQi9Maem8&index=43&list=PLWKjhJtqVAbmfoj2Th9fvxhHIeqFO7wOy)
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 [2]: https://www.youtube.com/watch?v=n1cKlKM3jYI

@@ -17,3 +17,4 @@
 ## Additional resource on today's topics:
 
 - [Inheritance and the Prototype Chain (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [&#127909; Prototypal Inheritance in 1 Minute (video)](prototypal inheritance javascript)

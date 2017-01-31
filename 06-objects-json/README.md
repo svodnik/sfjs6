@@ -13,14 +13,12 @@
 
 ## Additional resources on today's topics:
 
-- [MDN: Working with objects][1]
-- [MDN: Introduction to Object-Oriented JavaScript][2]
-- [JavaScript Tutorial: Objects][3]
-- [JSONLint][4]
-- [JSON on Wikipedia][5]
+## Additional resources on today's topics:
 
-[1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
-[2]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
-[3]: http://javascript.info/tutorial/objects
-[4]: http://jsonlint.com/
-[5]: http://en.wikipedia.org/wiki/JSON
+* [Working with Objects (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+* [Introduction to Object-Oriented JavaScript (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+* [JavaScript Tutorial: Objects](javascript.info/tutorial/objects)
+* [JSONLint](http://jsonlint.com/)
+* [JSON (Wikipedia)](https://en.wikipedia.org/wiki/JSON)
+* [&#127909; JavaScript lingo: Arrays & Objects (video)](https://www.youtube.com/watch?v=yHLGUxt0EKc)
+* [&#127909; What is JSON? (video)](https://www.youtube.com/watch?v=BGfmpvM4Zp0)

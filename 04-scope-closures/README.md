@@ -21,3 +21,4 @@
 * [How do JavaScript closures work? (StackOverflow)](https://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 * [Closures (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 * [Understand JavaScript Closures With Ease](https://javascriptissexy.com/understand-javascript-closures-with-ease/)
+* [&#127909; JavaScript Closures 101 (video)](https://www.youtube.com/watch?v=yiEeiMN2Khs)

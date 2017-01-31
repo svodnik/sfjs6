@@ -27,6 +27,12 @@
 - [Advanced reading: Understanding MVVM][6]
 - [JavaScript MVC][7]
 - [Implicit vs Explicit Iteration in jQuery][8]
+- [&#127909; Introduction to jQuery (vs JavaScript) (video)](https://www.youtube.com/watch?v=ueb_YVfCfiI)
+- [&#127909; Handlebars training (playlist)]():
+    - [&#127909; 01 Handlebars training: Getting Started (video)](https://www.youtube.com/watch?v=2sXjmewEQOY)
+    - [&#127909; 02 Handlebars training: Creating the Template (video)](https://www.youtube.com/watch?v=x_FDNyM5Cm4&t=24s)
+    - [&#127909; 03 Handlebars training: Handlebars.compile() (video)](https://www.youtube.com/watch?v=zT_cGPnl-pw)
+    - [&#127909; 04 Handlebars training: Each Helper (video)](https://www.youtube.com/watch?v=DqaYJ4vw82w)
 
 [1]: http://api.jquery.com
 [2]: https://learn.jquery.com/events/

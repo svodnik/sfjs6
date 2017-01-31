@@ -12,9 +12,4 @@ Because the Slack bot code will not be part of our regular homework repo, Nicole
 ## Prereading for next class:
 * Eloquent JavaScript [Chapter Four: Objects & Arrays](http://eloquentjavascript.net/04_data.html)
 
-## Additional resources on today's topics:
 
-* [Working with Objects (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
-* [Introduction to Object-Oriented JavaScript (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [JavaScript Tutorial: Objects](javascript.info/tutorial/objects)
-* [JSON (Wikipedia)](https://en.wikipedia.org/wiki/JSON)

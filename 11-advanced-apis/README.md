@@ -13,10 +13,10 @@ Using the 500px API documentation, customize the search results for the app we c
 
 ## Additional resources on today's topics:
 
-- [&#127909; OAuth: A Tale of Two Servers](https://www.youtube.com/watch?v=tFYrq3d54Dc) (video)
 - [The Navigator object (MDN)](https://developer.mozilla.org/en-US/docs/Web/API/Navigator)
 - [jQuery.each() method](https://api.jquery.com/jQuery.each/)
 - [500px.com API](https://github.com/500px/api-documentation)
 - [500px.com JavaScript SDK](https://github.com/500px/500px-js-sdk)
 - [OAuth tutorial (Google Chrome developer docs)](https://developer.chrome.com/extensions/tut_oauth)
 - [All about OAuth (oauth.net)](https://oauth.net)
+- [&#127909; OAuth: A Tale of Two Servers](https://www.youtube.com/watch?v=tFYrq3d54Dc) (video)

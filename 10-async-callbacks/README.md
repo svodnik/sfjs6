@@ -9,3 +9,4 @@
 ## Additional resource on today's topics:
 
 - [MDN: Event listeners](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+- [&#127909; Callback Functions in JavaScript (video)](https://www.youtube.com/watch?v=GxyFlXbhdsY)
