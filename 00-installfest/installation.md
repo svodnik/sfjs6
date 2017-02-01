@@ -1,3 +1,10 @@
+# Configuring Your System
+## Contents:
+- <a href="#tools">1. Installing command line tools</a>
+- <a href="#github">2. Setting up GitHub</a>
+- <a href="#tips">Helpful debugging tips</a>
+
+<a name="tools"></a>
 # 1. Installing command line tools
 
 You will need to install certain tools that will be used throughout the course. The installation instructions vary depending on whether you have a Mac, Windows, or Linux machine.
@@ -33,7 +40,7 @@ You will need to install certain tools that will be used throughout the course. 
 
 4. __Install Node__
 
-  Refer to the package installer on Node’s [website](https://nodejs.org/en/). Select the LTS version (labeled "Recommended for Most Users"). Then just follow the set-up instructions.
+  Refer to the package installer on Node’s [website](https://nodejs.org/en/). Select the Current version (labeled "Latest Features"). Then just follow the set-up instructions.
 
 5. __Ensure NPM is updated__
 
@@ -45,9 +52,10 @@ You will need to install certain tools that will be used throughout the course. 
 
 6. __Install Visual Studio Code__
 
-  Visual Studio Code can be found [here](http://code.visualstudio.com) and is available for all platforms, but you are free to use any code editor you choose. Popular choices include [Atom](http://atom.io) (Mac and Windows) and [Sublime Text](https://sublimetext.com/3) (all platforms).
+  Visual Studio Code can be found [here](http://code.visualstudio.com) and is available for all platforms, but you are free to use any code editor you choose. Popular choices include [Atom](http://atom.io) and [Sublime Text](https://sublimetext.com/3).
 
   When you’re done, raise your hand and ask a member of the instructional team to verify that the installation was successful.
+  Then complete the instructions in the section *2. Setting up GitHub* below.
 
 ## Windows
 
@@ -68,13 +76,14 @@ You will need to install certain tools that will be used throughout the course. 
   ```
 
 3. __Install Node__
-  Refer to the package installer on Node’s [website](https://nodejs.org/en/). Select the LTS version (labeled "Recommended for Most Users"). Then just follow the set-up instructions.
+  Refer to the package installer on Node’s [website](https://nodejs.org/en/). Select the Current version (labeled "Latest Features"). Then just follow the set-up instructions.
 
 4. __Install Visual Studio Code__
 
-  Visual Studio Code can be found [here](http://code.visualstudio.com) and is available for all platforms, but you are free to use any code editor you choose. Popular choices include [Atom](http://atom.io) (Mac and Windows) and [Sublime Text](https://sublimetext.com/3) (all platforms).
+  Visual Studio Code can be found [here](http://code.visualstudio.com) and is available for all platforms, but you are free to use any code editor you choose. Popular choices include [Atom](http://atom.io) and [Sublime Text](https://sublimetext.com/3).
 
   When you’re done, raise your hand and ask a member of the instructional team to verify that the installation was successful.
+  Then complete the instructions in the section *2. Setting up GitHub* below.
 
 ## Linux (Ubuntu)
 
@@ -107,11 +116,12 @@ You will need to install certain tools that will be used throughout the course. 
 
 4. __Install Visual Studio Code__
 
-  Visual Studio Code can be found [here](http://code.visualstudio.com) and is available for all platforms, but you are free to use any code editor you choose. Popular choices include [Atom](http://atom.io) (Mac and Windows) and [Sublime Text](https://sublimetext.com/3) (all platforms).
+  Visual Studio Code can be found [here](http://code.visualstudio.com) and is available for all platforms, but you are free to use any code editor you choose. Popular choices include [Atom](http://atom.io) and [Sublime Text](https://sublimetext.com/3).
 
   When you’re done, raise your hand and ask a member of the instructional team to verify that the installation was successful.
+  Then complete the instructions in the section *2. Setting up GitHub* below.
 
-
+<a name="github"></a>
 # 2. Setting Up GitHub
 
 We will be using the GitHub service to share some of our code. We will learn
@@ -148,7 +158,7 @@ ssh git@github.com
   ```
 
 
-
+<a name="tips"></a>
 # Helpful Debugging Tips
 
 __Error installing due to permissions__
