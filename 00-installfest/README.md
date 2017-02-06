@@ -11,7 +11,7 @@
 ## Additional resources on today's topics:
 
 * [What is the Internet?](http://netforbeginners.about.com/od/i/f/What-Is-The-Internet.htm)
-* [About the HTTP protocol](code.tutsplus.com/tutorials/http-the-protocol-every-Web-developer-must-know-part-1--net-31177)
+* [About the HTTP protocol](https://code.tutsplus.com/tutorials/http-the-protocol-every-Web-developer-must-know-part-1--net-31177)
 * [&#127909; DNS Explained (video)](https://www.youtube.com/watch?v=72snZctFFtA)
 * [&#127909; Domains and the Domain Name System (video)](https://www.youtube.com/watch?v=ip0JSUgU4os)
 * [&#127909; Writing Pseudocode (video)](https://www.youtube.com/watch?v=4G0EYfrrDT8)
