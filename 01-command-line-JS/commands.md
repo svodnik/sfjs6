@@ -34,7 +34,7 @@
 | `git status` | See the status of files in your repo |
 | `git log` | Look at a list of commits |
 | `git add` | Add files to the stage for committing |
-| `git commit -m "description of the changes you made (add, edit file)` | Create a snapshot of your project. Requires a message. |
+| `git commit -m "description of the changes you made"` | Create a snapshot of your project. Requires a message (like "adding index.html"). |
 | `git push` | Push updates to GitHub |
 | `git pull` | Pull updates from GitHub |
 | `git remote -v` | View the verbose remote Github url for the current directory to push or pull |
