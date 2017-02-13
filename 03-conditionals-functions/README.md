@@ -13,7 +13,7 @@
 * [Comparison operators reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
 * [if/else reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 * [Logical operators reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
+* [Control Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 * [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-* [More about document.getElementById()](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 * [&#127909; Let's learn functions (video)](https://www.youtube.com/watch?v=8n2j__EBgpc)
 * [&#127909; Loops, conditionals, this, and return (video)](https://www.youtube.com/watch?v=hfBgPKxN2HE)
