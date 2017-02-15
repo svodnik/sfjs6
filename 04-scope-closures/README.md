@@ -5,12 +5,15 @@
 * Read about Hubot
     * [Hubot Overview](https://hubot.github.com)
     * [Hubot Documentation](https://hubot.github.com/docs)
-* Interact with the bots in our class Slack organization
+* Interact with the bots in our class Slack organization (only works in DMs with these bots, or in channels that they are members of, such as `#general`)
     * SlackBot
         * Direct message with a question
     * PlusPlus
         * Add `++` after the @ name of a user to give them a point
         * Direct message `help` to PlusPlus to learn other commands to experiment with
+    * Giphy
+        * Type `/giphy` and a space, followed by a word 
+        * Giphy responds with an animated GIF related to that word
 
 ## Additional resources on today's topics:
 
