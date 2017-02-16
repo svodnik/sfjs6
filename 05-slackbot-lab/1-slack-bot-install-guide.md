@@ -13,12 +13,14 @@ Your instructor should provide you with a Hubot and an API token; be sure to hav
 
 3. **Create your hubot directory:**
 
- Navigate to the parent directory in which you want to create the folder that will contain your app code. This should be the parent directory whose subfolders contain your existing clones of the repos for this course -- for instance, in the folder structure shown below, you would navigate to the `javascript_development` folder:
+ Navigate to the parent directory in which you want to create the folder that will contain your app code. This should be the parent directory whose subfolders contain your existing clones of the repos for this course -- for instance, in the folder structure shown below, you would navigate to the `JSD` folder:
 
-    javascript-development
-        L homework (existing: clone of GitHub homework repo Borgaard / jsd5-homework)
-        L sfjs5 (existing: clone of GitHub resources repo svodnik / sfjs5)
+```html
+    JSD
+        L homework (existing: clone of GitHub homework repo Borgaard / jsd6-homework)
+        L sfjs5 (existing: clone of GitHub resources repo svodnik / sfjs6)
         L myhubot (new repo you are about to create for your Slack bot code) 
+```
 
  Then execute the following command to create a new folder named `myhubot`:
 
@@ -72,10 +74,11 @@ Your instructor should provide you with a Hubot and an API token; be sure to hav
 
     `$ heroku create myhubotapp`
 
-    > where "myhubotapp" is a unique app name; any app name already used by a heroku user will fail with "Name is already taken." 
+    where `myhubotapp` is a unique app name; any app name already used by a heroku user will fail with "Name is already taken." 
     If this happens, just repeat the command with a different app name. (The more unusual the name, the more likely it is to be unique.)
 
     <!--
+
     **Connect your local repo to heroku**
 
     `$ git remote add heroku https://git.heroku.com/myhubotapp`
@@ -83,6 +86,7 @@ Your instructor should provide you with a Hubot and an API token; be sure to hav
     where `myhubotapp` is the unique app name you created in the previous command.
 
     > Note: If you get an error message saying this is already done, that's fine -- just move on to the next step.
+
     -->
 
 12. **Add the following configs for Slack:**
@@ -115,4 +119,4 @@ Your instructor should provide you with a Hubot and an API token; be sure to hav
     
     Press Ctrl + C when you're done, to return to the shell prompt.
 
-    For future testing, you can simply type ./bin/hubot from the myhubot directory.
+    For future testing, you can simply type `./bin/hubot` from the myhubot directory.

@@ -190,42 +190,53 @@ This should give you a sense of what a Hubot can do—and perhaps give you some 
 
 **Bot unresponsive?**
 
-A Heroku app instance is known as a __dyno__. A free dyno 
-* runs for a maximum of 18 hours out of every 24
-* goes to sleep after 30 minutes of inactivity
+1. Check that your `.js` file is in the `scripts` subfolder
 
-If a sleeping web dyno receives web traffic, it will become active again after a short delay.
+    Your `.js` file must be in the `scripts` subfolder of the folder containing your hubot code. If your `.js` file is in the main folder, Slack won't know where to look for it.
 
-If your dyno doesn't wake when you interact with your bot on Slack, go to the command line and issue the following command:
+2. Check that you don't also have another `.js` or `.coffee` folder in your `scripts` folder
 
-`heroku ps:restart`
+    Your `scripts` folder should contain only the file that contains the code you want to use. Other script files might be loaded after yours, overwriting your code.
 
-Your bot should wake up after a few seconds.
+3. Wake up your bot
 
-Further details:
-* [Free Dyno Hours](https://devcenter.heroku.com/articles/free-dyno-hours)
-* [App Sleeping on Heroku](https://blog.heroku.com/app_sleeping_on_heroku)
+    A Heroku app instance is known as a __dyno__. A free dyno 
+    * runs for a maximum of 18 hours out of every 24
+    * goes to sleep after 30 minutes of inactivity
+
+    If a sleeping web dyno receives web traffic, it will become active again after a short delay.
+
+    If your dyno doesn't wake when you interact with your bot on Slack, go to the command line and issue the following command:
+
+    `heroku ps:restart`
+
+    Your bot should wake up after a few seconds.
+
+    Further details:
+    * [Free Dyno Hours](https://devcenter.heroku.com/articles/free-dyno-hours)
+    * [App Sleeping on Heroku](https://blog.heroku.com/app_sleeping_on_heroku)
+
 
 **CoffeeScript code that you want to understand?**
 
-CoffeeScript is often used in conjunction with Hubot; you won't need to know how to write CoffeeScript for the purposes of this class, 
-but be aware that it will come up in Hubot examples and documentation. If you encounter a CoffeeScript file (e.g., the "example.coffee" 
-file included with Hubot) and want to better understand what it's doing, you can use CoffeeScript to translate, or compile, the CoffeeScript 
-file into JavaScript code. 
+  CoffeeScript is often used in conjunction with Hubot; you won't need to know how to write CoffeeScript for the purposes of this class, 
+  but be aware that it will come up in Hubot examples and documentation. If you encounter a CoffeeScript file (e.g., the "example.coffee" 
+  file included with Hubot) and want to better understand what it's doing, you can use CoffeeScript to translate, or compile, the CoffeeScript 
+  file into JavaScript code. 
 
-To compile CoffeeScript to JavaScript, navigate to the directory containing the CoffeeScript file. Then use the `coffee` command with the
-`-c` switch (for "compile") and the `-o` switch (to specify "output"), as follows:
+  To compile CoffeeScript to JavaScript, navigate to the directory containing the CoffeeScript file. Then use the `coffee` command with the
+  `-c` switch (for "compile") and the `-o` switch (to specify "output"), as follows:
 
-```js
-coffee -c -o output-file.js source-file.coffee
-```
-where `output-file.js` is the name of the new file where the compiled JavaScript code should be stored, and `source-file.coffee` is the name of
-a file containing CoffeeScript code that you want to compile.
+  ```js
+  coffee -c -o output-file.js source-file.coffee
+  ```
+  where `output-file.js` is the name of the new file where the compiled JavaScript code should be stored, and `source-file.coffee` is the name of
+  a file containing CoffeeScript code that you want to compile.
 
-For instance, the following command compiles the CoffeeScript file script.coffee and saves the resulting JavaScript in a new file named script.js:
+  For instance, the following command compiles the CoffeeScript file script.coffee and saves the resulting JavaScript in a new file named script.js:
 
-```js
-coffee -c -o script.js script.coffee
-```
+  ```js
+  coffee -c -o script.js script.coffee
+  ```
 
-Then you can open the JavaScript file in a code editor and examine the code.
+  Then you can open the JavaScript file in a code editor and examine the code.

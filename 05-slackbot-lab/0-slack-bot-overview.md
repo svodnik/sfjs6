@@ -3,7 +3,7 @@
 ### Overview
 
 We've been using Slack to communicate with each other for the first couple weeks of the class. Now it is time to build our very own Slackbot to 
-add a fun interactive component to the chat room. A Slackbot is an integration into slack that can either respond to specific phrases that are 
+add a fun interactive component to the chat room. A Slackbot is an integration into Slack that can either respond to specific phrases that are 
 mentioned in Slack or they can post things from outside of slack into a channel or private conversation. There are now entire startups built 
 on top of Slackbots. For example, people have built Slackbots that let you hail an Uber from them or schedule meetings with different members 
 of your team (where it searches your Google Calendar). One of the most popular Slackbots lets people post random gifs based on phrases into a channel from Giphy.
