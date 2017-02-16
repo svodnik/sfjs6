@@ -48,21 +48,25 @@ Your instructor should provide you with a Hubot and an API token; be sure to hav
 
     `npm install hubot-slack --save`
 
+8. **Remove the `hubot-scripts.json` file**
+
+    In Finder, navigate to the folder for your hubot, locate the `hubot-scripts.json` file, then move it to the trash. This file is no longer supported, and its presence could generate errors later on.
+
     Now we need to push up our bot to Heroku.
 
-8. **Initialize your local repository:**
+9. **Initialize your local repository:**
 
     `$ git init`
 
-9. **Add all of your new files:**
+10. **Add all of your new files:**
 
     `$ git add .`
 
-10. **Commit your new files:**
+11. **Commit your new files:**
 
     `$ git commit -m "Initial Commit"`
 
-11. **Create a new app on Heroku:**
+12. **Create a new app on Heroku:**
 
     `$ heroku login`
 
@@ -87,7 +91,7 @@ Your instructor should provide you with a Hubot and an API token; be sure to hav
 
     -->
 
-12. **Add the following configs for Slack:**
+13. **Add the following configs for Slack:**
 
     `$ heroku config:add HEROKU_URL=https://myhubotapp.herokuapp.com`
 
@@ -97,15 +101,15 @@ Your instructor should provide you with a Hubot and an API token; be sure to hav
 
     where `YourTokenGoesHere` is the API token provided by the instructor
 
-13. **Push all your code up to Heroku**
+14. **Push all your code up to Heroku**
 
     `$ git push heroku master`
 
-14. **Turn on your bot**
+15. **Turn on your bot**
 
     `$ heroku ps:scale web:1`
 
-15. **Test your bot locally to make sure it's working:**
+16. **Test your bot locally to make sure it's working:**
 
     `HUBOT_SLACK_TOKEN=TOKEN-GOES-HERE ./bin/hubot --adapter slack`
 
