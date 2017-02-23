@@ -2,8 +2,8 @@
 
 ## Homework (due Monday 2/27)
 
-* Outline and create objects (2-object-homework folder)
-* Convert between JavaScript objects and JSON (3-json-homework folder)
+* Outline and create objects (3-object-homework folder)
+* Convert between JavaScript objects and JSON (4-json-homework folder)
 
 ## Pre-reading for next class:
 
