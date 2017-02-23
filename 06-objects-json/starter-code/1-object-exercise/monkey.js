@@ -5,8 +5,8 @@
 * foodsEaten
 
 And the following methods:
-* eatSomething(thingAsString)
-* introduce: producers a string introducing itself, including its name, species, and what it's eaten.
+* eatSomething(food)
+* introduce: produces a string introducing itself, including its name, species, and what it's eaten.
 
 Create 3 monkeys total. Make sure all 3 monkeys have all properties set and methods defined.
 
