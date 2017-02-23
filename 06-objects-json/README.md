@@ -2,16 +2,14 @@
 
 ## Homework (due Monday 2/27)
 
-* Outline and create objects (3-object-homework folder)
-* Convert between JavaScript objects and JSON (4-json-homework folder)
+* Outline and create objects (`3-object-homework` folder)
+* Convert between JavaScript objects and JSON (`4-json-homework` folder)
 
 ## Pre-reading for next class:
 
 * Eloquent JavaScript Chapter Twelve: [JavaScript and the Browser](http://eloquentjavascript.net/12_browser.html)
 * Eloquent JavaScript Chapter Thirteen: [The Document Object Model (DOM)](http://eloquentjavascript.net/13_dom.html)
 * Eloquent JavaScript Chapter Fourteen: [Handling Events](http://eloquentjavascript.net/14_event.html)
-
-## Additional resources on today's topics:
 
 ## Additional resources on today's topics:
 
