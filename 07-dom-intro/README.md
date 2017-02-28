@@ -2,7 +2,7 @@
 
 ## Homework (due Monday 3/6)
 
-* Madlibs (5-madlibs folder)
+* Madlibs (`5-madlibs` folder)
 * 99 Bottles of Beer in the browser window:
     - Remember the 99 Bottles of Beer assignment? For this assignment, you'll be creating a website that programatically 
     displays the lyrics to that song.
@@ -12,6 +12,9 @@
     - Your JavaScript file should programatically append each line of the song to the page--no hard-coding lyrics in HTML!
     - Do this in vanilla JavaScript to get practice using those methods.
     - Bonus: redo the exercise in jQuery!
+* BONUS homework: Dice (`6-dice folder`)
+    - Creating a page where every time the user hits the "Roll Dice" button, the screen randomly updates the two dice. 
+    - Specific instructions in the `js/app.js` folder
 
 ## Pre-reading for next class:
 
