@@ -3,8 +3,7 @@
 ## Homework (due Monday 3/6)
 
 * Redo 99 Bottles of Beer in the browser window using jQuery (see Class 07 for original instructions)
-* Recipes page (5_templating_lab folder)
-* Complete exercise in 7_query_homework folder (uses chaining, event delegation, and implicit iteration)
+* Complete exercise in `5_jquery_homework` folder (uses chaining, event delegation, and implicit iteration)
 
 ## Pre-reading for next class:
 

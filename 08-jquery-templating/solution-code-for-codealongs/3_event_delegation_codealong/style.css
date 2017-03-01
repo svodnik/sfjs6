@@ -1,0 +1,15 @@
+#todo-list {
+  cursor: pointer;
+}
+
+.complete-task {
+  color: blue;
+}
+
+.inactive {
+	color: #ccc;
+}
+
+.completed {
+  text-decoration: line-through;
+}
