@@ -9,11 +9,24 @@
 */
 
 function makeCountingFunction(predicate) {
-
+    return function(numbers) {
+        var i;
+        var count = 0;
+        for (i = 0; i < numbers.length; i++) {
+            if (predicate(numbers[i])) {
+               count++;
+            }
+        }
+        return count;
+    };
 }
 
 function isOdd(number) {
+    return (number % 2) === 1;
+}
 
+function isEven(number) {
+    return (number % 2) === 0;
 }
 
 /* Once you've filled in the two function definitions above, the line below should package up 'makeCountingFunction()' and 'isOdd()' into a single function that accepts an array of items as a parameter, iterates through it and returns a count of how many of those items are odd numbers. This new function is being assigned to the variable 'countTheOdds'. */
@@ -26,3 +39,7 @@ console.log(countTheOdds([1, 2, 3, 4, 5, 6, 7]));
 
 
 /* BONUS: Create a second predicate function called 'isEven()' that checks whether a number is even. Verify that it returns a value of 3 using the same array in the previous line. */
+
+var countTheEvens = makeCountingFunction(isEven);
+
+console.log(countTheEvens([1,2,3,4,5,6,7]));
