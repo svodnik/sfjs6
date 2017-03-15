@@ -2,6 +2,8 @@
 
 ## Homework (due Monday 3/20)
 
+Complete the Local Landscapes app we started in class.
+
 Using the 500px API documentation, customize the search results for the app we created today to do the following:
    - Sort photo results by rating (highest rated first)
    - Return 28 photos instead of the default 20
