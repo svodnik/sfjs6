@@ -13,4 +13,5 @@ Complete the Feedr project.
 
 ## Additional resources on today's topics:
 
-* [README document for Unit #2 Project: Feedr](https://github.com/svodnik/JS-Unit-2-Project-Starter-Code)
+- [README document for Unit #2 Project: Feedr](https://github.com/svodnik/JS-Unit-2-Project-Starter-Code)
+- [Handlebars](http://handlebarsjs.com)
