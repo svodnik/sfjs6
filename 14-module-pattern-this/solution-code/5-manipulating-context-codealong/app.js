@@ -1,50 +1,20 @@
-var user = {
-  firstName: 'Barack',
-  lastName: 'Obama',
-  showFullName: function() {
-    console.log(this.firstName, this.lastName)
+var userData = {
+  fullName: "Not Set",
+  // setUserName is a method on the userData object​
+  setUserName: function (firstName, lastName)  {
+  // this refers to the fullName property in this object​
+    this.fullName = firstName + " " + lastName;
   }
 }
 
-/* default context
-user.showFullName() // Barack Obama
-*/
-
-// $('.button').click(user.showFullName) // undefined undefined
-
-/* using call() method
-$('.button').click(function() {
- user.showFullName.call(user) // Barack Obama
-})
-*/
-
-/* using apply() method
-$('.button').click(function() {
- user.showFullName.apply(user) // Barack Obama
-})
-*/
-
-/* using call() and apply() while passing multiple arguments
-var user = {
-  firstName: 'Barack',
-  lastName: 'Obama',
-  showFullName: function(one, two, three) {
-    console.log(this.firstName, this.lastName, one, two, three)
-  }
+function getUserInput (firstName, lastName, callback, callbackObj) {
+  callback(firstName, lastName); 
+  console.log(this);
+  // The use of the call() or apply() method below will set the "this" value to callbackObj​
+  //callback.call(callbackObj, firstName, lastName);
+  //callback.apply (callbackObj, [firstName, lastName]); // apply just lets you specify a single array -- for situations where you don't know how many arguments you'll be passing
 }
-
-$('.button').click(function() {
- user.showFullName.call(user, 1, 2, 3) // Barack Obama 1 2 3
-})
-
-$('.button').click(function() {
- user.showFullName.apply(user, [1, 2, 3]) // Barack Obama 1 2 3
-})
-*/
 
 // using bind() 
-// declare a new variable whose value is the user.showFullName function with a context set to user
-var contextSetUser = user.showFullName.bind(user)
-$('.button').click(contextSetUser) // Barack Obama
+var contextSetUser = userData.setUserName.bind(userData)
 
-$('.button').click(user.showFullName) // undefined undefined

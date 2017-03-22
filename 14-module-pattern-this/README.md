@@ -7,7 +7,7 @@
 
 ## Bonus Project (optional)
 
-- Complete [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/#0), a tutorial that guides you through building a web application with Firebase. This is a preview of what we'll be doing in class when we return from break.
+- Complete [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/#0), a tutorial that guides you through building a web application with Firebase. This is a preview of what we'll be doing in class next week.
 
 ## Prereading for next class:
 
