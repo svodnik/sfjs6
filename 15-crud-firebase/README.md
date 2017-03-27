@@ -10,9 +10,9 @@
 ## Prereading for next class:
 
 - [Firebase Hosting guide](https://firebase.google.com/docs/hosting/)
-- [&#127909; Introducing Firebase Hosting](https://youtu.be/jsRVHeQd5kU?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL) (video)
+- [&#127916; Introducing Firebase Hosting](https://youtu.be/jsRVHeQd5kU?list=PLl-K7zZEsYLmOF_07IayrTntevxtbUxDL) (video)
 - [Setting up GitHub Pages](https://pages.github.com)
-- [&#127909; What is GitHub Pages?](https://youtu.be/2MsN8gpT6jY) (video)
+- [&#127916; What is GitHub Pages?](https://youtu.be/2MsN8gpT6jY) (video)
 
 ## Additional resources on today's topics:
 
