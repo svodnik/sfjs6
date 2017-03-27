@@ -17,6 +17,7 @@
 ## Additional resources on today's topics:
 
 - [Firebase API reference](https://firebase.google.com/docs/reference/js/)
+- [`firebase.database.Reference` API documentation](https://firebase.google.com/docs/reference/js/firebase.database.Reference)
 - [How to add collaborators to a Firebase app](stackoverflow.com/questions/37569460/how-to-add-collaborators-to-a-firebase-app/37571602#37571602)
 - [&#127909; Getting Started with Firebase on the Web (video))](https://www.youtube.com/watch?v=k1D0_wFlXgo&index=1&list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX)
 - [&#127909; Getting Started with the Firebase Realtime Database on the Web, Part 1 (video)](https://www.youtube.com/watch?v=noB98K6A0TY&list=PLl-K7zZEsYLmnJ_FpMOZgyg6XcIGBu2OX&index=2)
